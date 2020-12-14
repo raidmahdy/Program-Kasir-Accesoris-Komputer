@@ -1,3 +1,8 @@
+#Tugas Individu UTS Dasprog
+#Nama: Raid Mahdy
+#NIM: 3.34.20.4.17
+#Kelas: IK1E
+
 print("~~~~Program Kasir Toko Accessoris Komputer~~~~")
 pembeli = input("Masukkan nama Pembeli: ")
 print ("Nama Pembeli :", pembeli) 
